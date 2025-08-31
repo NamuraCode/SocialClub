@@ -1,0 +1,17 @@
+D:\02_Projects\03_Programation\06_HerramientasProgramation\SocialClubExample\SocialClubExample\obj\Debug\net8.0-windows\SocialClubExample.Form1.resources
+D:\02_Projects\03_Programation\06_HerramientasProgramation\SocialClubExample\SocialClubExample\obj\Debug\net8.0-windows\SocialClubExample.csproj.GenerateResource.cache
+D:\02_Projects\03_Programation\06_HerramientasProgramation\SocialClubExample\SocialClubExample\obj\Debug\net8.0-windows\SocialClubExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\02_Projects\03_Programation\06_HerramientasProgramation\SocialClubExample\SocialClubExample\obj\Debug\net8.0-windows\SocialClubExample.AssemblyInfoInputs.cache
+D:\02_Projects\03_Programation\06_HerramientasProgramation\SocialClubExample\SocialClubExample\obj\Debug\net8.0-windows\SocialClubExample.AssemblyInfo.cs
+D:\02_Projects\03_Programation\06_HerramientasProgramation\SocialClubExample\SocialClubExample\obj\Debug\net8.0-windows\SocialClubExample.csproj.CoreCompileInputs.cache
+D:\02_Projects\03_Programation\06_HerramientasProgramation\SocialClubExample\SocialClubExample\obj\Debug\net8.0-windows\SocialClubExample.sourcelink.json
+D:\02_Projects\03_Programation\06_HerramientasProgramation\SocialClubExample\SocialClubExample\obj\Debug\net8.0-windows\SocialClubExample.dll
+D:\02_Projects\03_Programation\06_HerramientasProgramation\SocialClubExample\SocialClubExample\obj\Debug\net8.0-windows\refint\SocialClubExample.dll
+D:\02_Projects\03_Programation\06_HerramientasProgramation\SocialClubExample\SocialClubExample\obj\Debug\net8.0-windows\SocialClubExample.pdb
+D:\02_Projects\03_Programation\06_HerramientasProgramation\SocialClubExample\SocialClubExample\bin\Debug\net8.0-windows\SocialClubExample.exe
+D:\02_Projects\03_Programation\06_HerramientasProgramation\SocialClubExample\SocialClubExample\bin\Debug\net8.0-windows\SocialClubExample.deps.json
+D:\02_Projects\03_Programation\06_HerramientasProgramation\SocialClubExample\SocialClubExample\bin\Debug\net8.0-windows\SocialClubExample.runtimeconfig.json
+D:\02_Projects\03_Programation\06_HerramientasProgramation\SocialClubExample\SocialClubExample\bin\Debug\net8.0-windows\SocialClubExample.dll
+D:\02_Projects\03_Programation\06_HerramientasProgramation\SocialClubExample\SocialClubExample\bin\Debug\net8.0-windows\SocialClubExample.pdb
+D:\02_Projects\03_Programation\06_HerramientasProgramation\SocialClubExample\SocialClubExample\obj\Debug\net8.0-windows\SocialClubExample.genruntimeconfig.cache
+D:\02_Projects\03_Programation\06_HerramientasProgramation\SocialClubExample\SocialClubExample\obj\Debug\net8.0-windows\ref\SocialClubExample.dll
