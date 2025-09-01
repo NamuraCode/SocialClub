@@ -13,6 +13,20 @@ namespace SocialClubExample.domain.model
         private int age;
         private long cellphone;
         private long document;
+        
+        public Person(ulong id, string name, int age, long cellphone, long document)
+        {
+            this.id = id;
+            this.name = name;
+            this.age = age;
+            this.cellphone = cellphone;
+            this.document = document;
+        }
 
+        public ulong Id { get => id; set => id = value; }
+        public string Name { get => name; set => name = value; }
+        public int Age { get => age; set => age = value; }
+        public long Cellphone { get => cellphone; set => cellphone = value; }
+        public long Document { get => document; set => document = value; }
     }
 }
