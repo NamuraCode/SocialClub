@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SocialClubExample.domain.model
 {
-    internal class Partner: User
+    internal class Partner:User
     {
         private ulong register;
         private ulong amount;
