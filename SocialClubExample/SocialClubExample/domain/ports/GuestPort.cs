@@ -8,8 +8,13 @@ namespace SocialClubExample.domain.ports
 {
     public class GuestPort
     {
-        public Guest FindByDocument(Guest guest);
-        public Guest FindByUserName(Guest guest);
-        public void Save(Guest guest);
+        public Guest FindByDocument(Guest guest) {
+            return guest;
+        }
+        public Guest FindByUserName(Guest guest) {
+            return guest;
+        }
+        public void Save(Guest guestAtribute) {
+        }
     }
 }

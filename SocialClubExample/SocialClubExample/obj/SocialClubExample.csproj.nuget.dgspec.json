@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\02_Projects\\03_Programation\\06_HerramientasProgramation\\SocialClubExample\\SocialClubExample\\SocialClubExample.csproj": {}
+    "D:\\02_Projects\\03_Programation\\06_HerramientasProgramation\\SocialClub\\SocialClubExample\\SocialClubExample\\SocialClubExample.csproj": {}
   },
   "projects": {
-    "D:\\02_Projects\\03_Programation\\06_HerramientasProgramation\\SocialClubExample\\SocialClubExample\\SocialClubExample.csproj": {
+    "D:\\02_Projects\\03_Programation\\06_HerramientasProgramation\\SocialClub\\SocialClubExample\\SocialClubExample\\SocialClubExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\02_Projects\\03_Programation\\06_HerramientasProgramation\\SocialClubExample\\SocialClubExample\\SocialClubExample.csproj",
+        "projectUniqueName": "D:\\02_Projects\\03_Programation\\06_HerramientasProgramation\\SocialClub\\SocialClubExample\\SocialClubExample\\SocialClubExample.csproj",
         "projectName": "SocialClubExample",
-        "projectPath": "D:\\02_Projects\\03_Programation\\06_HerramientasProgramation\\SocialClubExample\\SocialClubExample\\SocialClubExample.csproj",
+        "projectPath": "D:\\02_Projects\\03_Programation\\06_HerramientasProgramation\\SocialClub\\SocialClubExample\\SocialClubExample\\SocialClubExample.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "D:\\02_Projects\\03_Programation\\06_HerramientasProgramation\\SocialClubExample\\SocialClubExample\\obj\\",
+        "outputPath": "D:\\02_Projects\\03_Programation\\06_HerramientasProgramation\\SocialClub\\SocialClubExample\\SocialClubExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

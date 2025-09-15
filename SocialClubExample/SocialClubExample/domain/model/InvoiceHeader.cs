@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SocialClubExample.domain.model
 {
-    internal class InvoiceHeader
+    public class InvoiceHeader
     {
         private ulong idInvoice;
         private User user;
@@ -16,7 +16,7 @@ namespace SocialClubExample.domain.model
         private bool status;
         private List<InvoiceDetail> details;
 
-        public InvoiceHeader(ulong idInvoice, User user, Partner partner, DateTime dateCreated, ulong total, bool status)
+        public InvoiceHeader(ulong idInvoice, User user, Partner partner, DateTime dateCreated, ulong total, bool status, List<InvoiceDetail> details)
         {
             this.idInvoice = idInvoice;
             this.user = user;
@@ -24,6 +24,7 @@ namespace SocialClubExample.domain.model
             this.dateCreated = dateCreated;
             this.total = total;
             this.status = status;
+            this.details = details;
         }
 
         public ulong IdInvoice { get => idInvoice; set => idInvoice = value; }

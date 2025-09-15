@@ -8,12 +8,22 @@ namespace SocialClubExample.domain.model
 {
     internal class PartnerPort
     {
-        public int CountActiveGuest(Partner partner);
-        public Partner FindByDocument(Partner partner);
-        public Partner FindByUserName(Partner partner);
-        public void DeletePartner(Partner partner);
-        public List<InvoiceHeader> getAllInvoicesByIdPartner(Partner partner);
-        public List<InvoiceHeader> getAllGuestsInvoicesById(Partner partner);
-        public void Save(Partner partner);
+        public int CountActiveGuest(Partner partner) { 
+            return 0;
+        }
+        public Partner FindByDocument(Partner partner) { 
+            return partner;
+        }
+        public Partner FindByUserName(Partner partner) { 
+            return partner;
+        }
+        public void DeletePartner(Partner partner) { }
+        public List<InvoiceHeader> getAllInvoicesByIdPartner(Partner partner) { 
+            return new List<InvoiceHeader>();
+        }
+        public List<InvoiceHeader> getAllGuestsInvoicesById(Partner partner) { 
+            return new List<InvoiceHeader>();
+        }
+        public void Save(Partner partner) { }
     }
 }

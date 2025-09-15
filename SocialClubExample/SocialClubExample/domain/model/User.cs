@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SocialClubExample.domain.model
 {
-    internal class User:Person
+    public class User:Person
     {
         private string userName;
         private string password;
