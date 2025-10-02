@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SocialClubExample.domain.model
+namespace SocialClubExample.app.usecases
 {
-    public class Admin:User
+    public class AmountIncrement
     {
         
     }
